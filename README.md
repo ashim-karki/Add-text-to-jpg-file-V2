@@ -6,6 +6,6 @@
 
 3. Keep all your images in the Images folder. Image name must match the first column of your data file.
 
-4. You can change fonts, text and image locations as per your need.
+4. You can change fonts, text and image positions as per your need.
 
 5. Run the program. All the final templates shall be placed in Final folder.
