@@ -1,9 +1,9 @@
 # Importing the PIL library 
-from typing import List, Tuple
+# from typing import List, Tuple
 from PIL import Image 
 from PIL import ImageDraw 
 from PIL import ImageFont 
-from tkinter.font import Font
+# from tkinter.font import Font
 import csv
 
 with open('your_data_file.csv', newline='') as f:
